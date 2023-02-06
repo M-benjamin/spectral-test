@@ -2,7 +2,7 @@
   "name": "spectral-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://M-benjamin.github.io/spectral-test",
+  "homepage": "https://M-benjamin.github.io/spectral-test",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
