@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/spectral-test/static/js/main.6ef8d90a.js",
+    "static/js/787.051696e7.chunk.js": "/spectral-test/static/js/787.051696e7.chunk.js",
+    "static/media/logo.svg": "/spectral-test/static/media/logo.bbf2fc99e04c812c3c396912871be26a.svg",
+    "index.html": "/spectral-test/index.html",
+    "main.6ef8d90a.js.map": "/spectral-test/static/js/main.6ef8d90a.js.map",
+    "787.051696e7.chunk.js.map": "/spectral-test/static/js/787.051696e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6ef8d90a.js"
+  ]
+}
