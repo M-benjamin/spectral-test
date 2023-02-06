@@ -16,7 +16,7 @@ export const Container = styled.div`
     align-items: center;
     gap: 2rem;
     height: 100vh;
-    background-color: #f0f7f8;
+    background-color: #353547;
     color: #425a65;
   }
 

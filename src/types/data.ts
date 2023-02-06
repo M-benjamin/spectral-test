@@ -1,5 +1,7 @@
-export interface IData {
+export interface IDataRow {
+  id: number;
+  image: string;
   name: string;
   price: string;
-  image: string;
+  rating: any;
 }
