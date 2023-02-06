@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started
 
-Link to visit the app: [spectral test site]("https://M-benjamin.github.io/spectral-test").
+Link to visit the app: [a link]("https://M-benjamin.github.io/spectral-test").
 
 ## Available Scripts
 
